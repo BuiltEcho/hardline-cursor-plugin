@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "hardline": {
+      "url": "https://api.hardlineapp.com/mcp"
+    }
+  }
+}

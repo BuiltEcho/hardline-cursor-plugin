@@ -1,0 +1,21 @@
+{
+  "name": "hardline",
+  "version": "0.1.0",
+  "description": "Connect Hardline project context, call summaries, captures, tasks, contacts, and messaging to your AI assistant.",
+  "author": {
+    "name": "Hardline",
+    "email": "support@hardlineapp.com"
+  },
+  "homepage": "https://www.hardlineapp.com",
+  "keywords": [
+    "hardline",
+    "construction",
+    "calls",
+    "project-context",
+    "mcp"
+  ],
+  "logo": "assets/hardline-logo.png",
+  "mcpServers": "mcp.json",
+  "repository": "https://github.com/BuiltEcho/hardline-cursor-plugin",
+  "license": "MIT"
+}
